@@ -6,10 +6,10 @@ This project analyzes sales data for the electronic sales industry, using Python
 
 The project's foundation is built on the versatile Python programming language. It leverages a suite of essential libraries for data manipulation, analysis, and visualization.
 
-Pandas: Used for data manipulation and analysis, this library is instrumental in handling and processing the dataset.
+• Pandas: Used for data manipulation and analysis, this library is instrumental in handling and processing the dataset.
 
-NumPy: A powerful library that was key to the data analysis process.
+• NumPy: A powerful library that was key to the data analysis process.
 
-Matplotlib: Utilized for creating various plots and charts to visualize the data.
+• Matplotlib: Utilized for creating various plots and charts to visualize the data.
 
-The data itself, which is the lifeblood of this project, was acquired through web scraping, enabling the team to gather valuable insights from the vast digital landscape.
+• The data itself, which is the lifeblood of this project, was acquired through web scraping, enabling the team to gather valuable insights from the vast digital landscape.
